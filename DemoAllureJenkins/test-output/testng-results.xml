@@ -2,20 +2,16 @@
 <testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2025-11-10T16:52:39 IST" name="Suite" finished-at="2025-11-10T16:53:00 IST" duration-ms="20910">
+  <suite started-at="2025-11-17T15:08:19 IST" name="Suite" finished-at="2025-11-17T15:08:23 IST" duration-ms="4741">
     <groups>
     </groups>
-    <test started-at="2025-11-10T16:52:39 IST" name="Test" finished-at="2025-11-10T16:53:00 IST" duration-ms="20910">
-      <class name="POM_package.Login_test">
-        <test-method is-config="true" signature="SetDriver()[pri:0, instance:POM_package.Login_test@6b927fb]" started-at="2025-11-10T16:52:39 IST" name="SetDriver" finished-at="2025-11-10T16:52:44 IST" duration-ms="5546" status="PASS">
+    <test started-at="2025-11-17T15:08:19 IST" name="Test" finished-at="2025-11-17T15:08:23 IST" duration-ms="4741">
+      <class name="POM_package.LoginTest">
+        <test-method signature="logintest()[pri:0, instance:POM_package.LoginTest@3012646b]" started-at="2025-11-17T15:08:19 IST" name="logintest" description="verify valid login scenario" finished-at="2025-11-17T15:08:23 IST" duration-ms="4593" status="PASS">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- SetDriver -->
-        <test-method signature="verifyLogin()[pri:0, instance:POM_package.Login_test@6b927fb]" started-at="2025-11-10T16:52:44 IST" name="verifyLogin" finished-at="2025-11-10T16:53:00 IST" duration-ms="15338" status="PASS">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- verifyLogin -->
-      </class> <!-- POM_package.Login_test -->
+        </test-method> <!-- logintest -->
+      </class> <!-- POM_package.LoginTest -->
     </test> <!-- Test -->
   </suite> <!-- Suite -->
 </testng-results>
