@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <suite name="Suite">
-  <test thread-count="5" name="Test">
+  <test thread-count="5" name="Test1">
     <classes>
       <class name="POM_package.LoginTest"/>
     </classes>
